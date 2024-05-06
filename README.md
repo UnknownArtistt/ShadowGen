@@ -1,5 +1,7 @@
 # ShadowGen
 
+<img src="media/banner.png">
+
 ## Intro
 
 This credit card extrapolation tool, developed in Python, is essential for conducting audits in a banking context. Designed for both educational purposes and to ensure the integrity and security of credit card transactions, it facilitates the identification and analysis of transaction patterns.
