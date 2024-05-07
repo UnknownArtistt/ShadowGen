@@ -26,7 +26,7 @@ To install and run the tool, you need to either clone the repository or download
 
 Clone the repository:
 
-<b>git clone https://github.com/Julen-H/ShadowGen</b>
+<b>git clone https://github.com/UnknownArtistt/ShadowGen</b>
 
 For Debian-based systems, as an example, make the script executable. Be sure to execute the corresponding script for your distro:
 
